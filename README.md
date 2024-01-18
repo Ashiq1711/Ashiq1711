@@ -1,6 +1,6 @@
 ### Hi, I'm Robiul Islam Ashiq 👋
 #### Web Developer
-![Web Developer](https://www.facebook.com/photo/?fbid=3548012942144643&set=a.1585918085020815)
+![Web Developer]
 
 Highly motivated junior Front-End Developer with strong
 foundation in HTML, CSS, Tailwind CSS, Bootstrap, JavaScript
@@ -14,7 +14,6 @@ Skills: REACT / JS / HTML / CSS/ TAILWIND CSS/ BOOTSTRAP
 - 🌱 I’m currently learning Web Development & Design. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ashiq1711)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Robiul Islam Ashiq )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ashiq_11.17/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
