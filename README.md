@@ -1,6 +1,6 @@
 ### Hi, I'm Robiul Islam Ashiq 👋
 #### Web Developer
-![Web Developer]
+
 
 Highly motivated junior Front-End Developer with strong
 foundation in HTML, CSS, Tailwind CSS, Bootstrap, JavaScript
@@ -18,7 +18,6 @@ Skills: REACT / JS / HTML / CSS/ TAILWIND CSS/ BOOTSTRAP
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Ashiq1711/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Ashiq1711)  
 
